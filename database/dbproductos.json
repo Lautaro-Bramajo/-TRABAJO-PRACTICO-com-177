@@ -1,0 +1,104 @@
+[
+    {
+        "nombre": "El patinador",
+        "detalles": "Cruza la pierna izquierda detrás de la pierna derecha mientras doblas la rodilla derecha 90 grados.<br> Extiende el brazo derecho hacia un lado y gira el brazo izquierdo sobre la pierna derecha.<br> Salta hacia el otro lado, cambiando la posición de tus piernas y brazos.<br> Esa es una repetición.",
+        "repeticiones": "6-8 series de 8 repeticiones.",
+        "trabaja": "Este ejercicio hace trabajar a los músculos y glúteos del abductor de la cadera. Eso significa que te ayudará a potenciar muchísimo una sola pierna, y sumarle un buen salto al cambiar de pierna lo hará aún más desafiante.",
+        "mostrar": true,
+        "id": 0,
+        "categoria": "cardio",
+        "image": "el-patinador.jpg"
+    },
+    {
+
+        "nombre": "Rollbacks",
+        "detalles": "Comienza de pie. Con un solo movimiento, siéntate en el suelo y rueda hacia atrás,<br> llevando las caderas y los talones hacia el techo. Vuelve a poner los pies en el suelo y a ponerte de pie.<br> Esa es una repetición.",
+        "repeticiones": "4-5 series de 10 repeticiones.",
+        "trabaja": "Rodar hacia atrás favorece la coordinación y la movilidad además de fortalecer tu core",
+        "mostrar": true,
+        "id": 1,
+        "categoria": "cardio",
+        "image": "rollbacks.jpg"
+    },
+    {
+        "nombre": "SUPTA PADANGUSTHASANA I",
+        "detalles": "El saludo al sol es una secuencia perfecta para practicar nada más despertarnos,<br> ya que nos ayuda a movilizar de forma efectiva nuestra columna y a despertar todos los grupos musculares.<br> A través de flexiones y extensiones de columna y manteniendo una respiración adecuada vamos pasando por distintas posturas que nos hacen trabajar la fuerza de piernas y brazos.<br> Esta es la versión más básica del saludo al sol: puedes aprenderla y repetirla cada mañana las veces que consideres necesario.<br>Recuéstate sobre la espalda, pon un cinturón alrededor de tu pie derecho y levántalo hacia el techo,<br> llevando los omóplatos hacia tu espalda.  Mantén la postura por cinco respiraciones y cambia a la otra pierna.",
+        "repeticiones": "",
+        "trabaja": "",
+        "mostrar": true,
+        "id": 2,
+        "categoria": "yoga",
+        "image": "reclinado.jpg"
+    },
+    {
+        "nombre": "Peso muerto",
+        "detalles": "Desde un punto simple de vista, el peso muerto no es sino una de las labores más básicas de la vida: <br>agacharse y recoger una cosa del suelo. Pero a nivel fisiológico, es mucho más complejo. <br>El ejercicio requiere el trabajo de grandes grupos musculares en forma coordinada.<br> De hecho, el peso muerto es casi lo mismo que hacer prensa, extensión de espalda, <br>flexión femoral acostado, elevación de talones, encogimientos abdominales, jalones con brazos estirados,<br> ejercicios de agarre y encogimientos, todo ello a la vez.",
+        "repeticiones": "",
+        "trabaja": "Este ejercicio hace trabajar a los músculos de la espalda, pierna y cuadriceps.",
+        "mostrar": true,
+        "id": 3,
+        "categoria": "fuerza",
+        "image": "peso-muerto.jpg"
+    },
+    {
+        "nombre": "ADHO MUKHA SUKHASANA (POSTURA FÁCIL MIRANDO HACIA ABAJO)",
+        "detalles": "Desde sukhasana, flexiona tu torso desde tu cadera y<br> camina tus dedos hacia adelante hasta que tus brazos estén completamente extendidos.  <br>Después de cinco respiraciones, siéntate, cambia el cruce de tus piernas y repite.",
+        "repeticiones": "",
+        "trabaja": "",
+        "mostrar": true,
+        "id": 4,
+        "categoria": "yoga",
+        "image": "mirando-hacia-abajo.jpg"
+    },
+    {
+        "nombre": "Press de banca",
+        "detalles": "Échate sobre un banco. Las palmas de las manos deben estar hacia arriba.<br> Baja lentamente el peso hasta tocar la parte central del tórax. <br>Empuja la barra hacia arriba hasta que los brazos estén completamente estirados pero sin llegar a bloquear la articulación del codo.<br> Vuelve a descender la barra hasta tocar la parte central del tórax y repite el movimiento.",
+        "repeticiones": "",
+        "trabaja": "Este ejercicio ejercita principalmente al pectoral mayor y de manera secundaria los deltoides anterior y tríceps.",
+        "mostrar": true,
+        "id": 5,
+        "categoria": "fuerza",
+        "image": "press-banca.jpg"
+    },
+    {
+        "nombre": "Sit-outs",
+        "detalles": "Comienza en plancha con las rodillas ligeramente separadas del suelo, <br>los hombros sobre las muñecas, las rodillas debajo de las caderas.<br> Lleva una pierna hacia adelante a través del cuerpo, pasándola por debajo<br> de la otra pierna y levantando el brazo opuesto mientras dejas caer tu cadera al suelo. <br>Lleva el talón hacia atrás para volver a comenzar, luego haz lo mismo en el lado opuesto. Esa es una repetición.",
+        "repeticiones": "4-5 series de 10 repeticiones.",
+        "trabaja": "Este es un movimiento dinámico que trabaja tu core, hombros, cuádriceps y glúteos, además de tu movilidad y coordinación. Incluso mejora la función cognitiva porque requiere aprender nuevos patrones motores",
+        "mostrar": true,
+        "id": 6,
+        "categoria": "cardio",
+        "image": "sit-outs.jpg"
+    },
+    {
+        "nombre": "Sentadilla con barra",
+        "detalles": "De pie, apoya la barra en los hombros. Los pies deben mantenerse separados a la distancia del ancho de los hombros.<br> Flexiona lentamente las rodillas hasta que los muslos y el gemelo formen más o menos un ángulo de 90º.<br> Estira las piernas para regresar a la posición inicial. <br>Evita mirar al suelo y no bajar la cadera, la posición correcta es mantener siempre tu columna paralela a tus pantorrillas.",
+        "repeticiones": "",
+        "trabaja": "Este ejercicio ejercita principalmente al cuádriceps y glúteos y de manera secundaria <br>los músculos posteriores de los muslos, aductores, erectores espinales y abdominales",
+        "mostrar": true,
+        "id": 7,
+        "categoria": "fuerza",
+        "image": "sentadilla-pesas.jpg"
+    },
+    {
+        "nombre": "ADHO MUKHA SHVANASANA (POSTURA DEL PERRO MIRANDO HACIA ABAJO)",
+        "detalles": "Desde la postura ADHO MUKHA SUKHASANA, entra a perro mirando hacia abajo.  <br>Mantén tus rodillas dobladas y los talones levantados.  <br>Al exhalar, levanta tus isquiones, presiona tus muslos hacia atrás y alarga tus talones hacia el piso.",
+        "repeticiones": "",
+        "trabaja": "",
+        "mostrar": true,
+        "id": 8,
+        "categoria": "yoga",
+        "image": "postura-perro.jpg"
+    },
+    {
+        "nombre": "Jacks verticales con bandas",
+        "detalles": "Colócate una mini banda sobre los tobillos. <br>Mirando hacia adelante, salta y separa las piernas hacia adelante y hacia atrás, <br>moviendo los brazos en dirección opuesta a las piernas. <br>Concéntrate en mantener la resistencia en la banda mientras mantienes la velocidad.",
+        "repeticiones": "4-5 series de 10 repeticiones.",
+        "trabaja": "La resistencia adicional en un ejercicio de cardio como este hace que funcionen los músculos isquiotibiales y el glúteo medio y el máximo",
+        "mostrar": true,
+        "id": 9,
+        "categoria": "cardio",
+        "image": "jumping-jack.jpg"
+    }
+]
+
