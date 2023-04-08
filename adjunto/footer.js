@@ -11,7 +11,7 @@ footerHTML.innerHTML += `
             <div>
                 <h3>Desarrollado por:</h3>
                 <p>Bramajo Lautaro</p>
-                <p>Galarza Gonzalo</p>
+                <p></p>
             </div>
             <div>
                 <h3>Contacto</h3>
