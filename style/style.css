@@ -295,9 +295,15 @@ footer nav{
     display: flex;
     gap: 15vw;
 }
-footer nav a {
+.what{
     text-decoration: none;
     color: rgb(26, 182, 33);
+}.youtube{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.804);
+}.discord{
+    text-decoration: none;
+    color: rgb(80, 108, 164);
 }
 footer div{
     display: flex;
