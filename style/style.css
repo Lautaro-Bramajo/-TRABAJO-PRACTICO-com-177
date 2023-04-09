@@ -277,9 +277,6 @@ section{
 
 
 
-
-
-
 /* FOOTER */
 
 footer{
@@ -318,6 +315,44 @@ footer p{
 footer h3{
     color: rgb(180, 88, 207);
 }
+
+
+
+/* Formulario */
+main form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 3vh 
+ }
+ 
+ main form .inputContainer{
+     display: flex;
+     gap: 3vh;
+     flex-direction: column;
+     width: 100%;
+     font-size: 25px;
+
+ }
+
+ main form .inputContainer input{
+    padding: 10px;
+    font-size: 19px;
+ }
+ 
+ .btn-enviar{
+     width: 200px;
+     padding: 10px;
+     background-color: rgb(153, 0, 195);
+     color: aliceblue;
+     border: solid rgb(153, 0, 195);
+ }
+
+ .btn-enviar:hover{
+    transition: 1s ease-in-out;
+    background-color: aliceblue;
+    color: rgb(153, 0, 195);
+ }
 
 
 

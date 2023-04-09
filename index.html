@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FITNESS</title>
+    <title>Gimnásticos</title>
     <link rel="stylesheet" href="./style/style.css">
 </head>
 <body id="body">
@@ -13,7 +13,7 @@
 
     <main class="main-index">
         <section class="cabezera">
-            <h1>FITNESS</h1>
+            <h1>Gimnásticos</h1>
 
             <p>Los beneficios para salud del ejercicio regular y la actividad física son difíciles de ignorar. 
                 <br>Todas las personas se benefician del ejercicio, sin importar la edad, el sexo, o la capacidad física.
@@ -77,7 +77,7 @@
             </p>
 
         </section>
-
+        
         <img src="./images/index.jpg" alt="img" class="imgIndex">
 
         <h1>Categorias</h1>
@@ -115,6 +115,22 @@
             <div id = "contenedorFuerza" class="contenedor"> </div>
 
         </section>
+
+        <form id="formulario">
+            <div class="inputContainer">
+                <label for="nombre">Nombre</label>
+                <input type="text" id="nombre" name="nombre" placeholder="Nombre" required>
+            </div>
+            <div class="inputContainer">
+                <label for="mail">Correo Electronico</label>
+                <input type="email" id="mail" name="mail" placeholder="ejemplo@correo.com" required>
+            </div>
+            <div class="inputContainer">
+                <label for="mensaje">Mensaje</label>
+                <input type="text" id="mensaje" name="mensaje" placeholder="Me interesa tu servicio.." required>
+            </div>
+            <input type="submit" value="Enviar" class="btn-enviar"/>
+        </form>
 
         
 
