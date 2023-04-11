@@ -1,4 +1,3 @@
-/*  Cascade Style Sheet  */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 *{
@@ -13,8 +12,7 @@ html{
 
 
 body{
-    background-color: rgba(175, 152, 120, 0.471);
-    background: linear-gradient( #724d86, #2b085fac);
+    background-color: F6F1F1
 }
 
 header{
@@ -24,7 +22,8 @@ header{
     border-radius: 15px;
     padding: 10px 30px;
     margin: 10px 1vw 40px 1vw;
-    background-color:rgb(91, 0, 116);
+    background-color:rgb(0, 0, 0);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.407);
     color: rgb(232, 231, 231);
 }
 
@@ -87,7 +86,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: aqua;
+    background-color: #19A7CE;
     width: 70%;
     gap: 30px;
     padding: 15px;
@@ -101,7 +100,7 @@ main{
     text-align: center;
 }
 .cabezera p{
-    color: rgb(63, 69, 74);
+    color: rgb(31, 33, 34);
     font-size: 20px;
 }
 
@@ -110,9 +109,8 @@ h1{
     display: flex;
     align-self: center;
     margin-top: 5vh;
-    color: rgb(111, 4, 150);
+    color: rgb(0, 0, 0);
     font-size: 60px;
-    background-color: aquamarine;
     border-radius: 15px;
 }
 .h2Categorias{
@@ -120,7 +118,7 @@ h1{
     align-items: center;
     text-align: center;
     font-size: 40px;
-    color: rgb(202, 230, 254);
+    color: rgb(255, 255, 255);
 }
 section{
     display: flex;
@@ -132,7 +130,7 @@ section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: linear-gradient( #200187, #470291c8);
+    background-color: rgb(0, 55, 75);
     border-radius: 15px;
     height: 15vh;
     width: 50vw;
@@ -151,12 +149,13 @@ section{
     gap: 30px;
 }
 .card{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 255);
     padding: 10px;
     width: 300px;
     border-radius: 5px;
     font-family: sans-serif;
     color: white;
+    box-shadow: 0 10px 10px rgba(10, 2, 72, 0.65);
     animation-name: left-to-right;
     animation-duration: 3s;
     display: block;
@@ -164,13 +163,13 @@ section{
 .card:hover{
     transform: scale(1.03);
     transition: ease-in 1s;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.816);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
 }
 .card img{
     width: 100%;
     height: 200px;
     border-radius: 5px;
-    opacity: 0.5;
+    opacity: 0.7;
 }
 .card:hover img{
     transition: ease-in 1s;
@@ -221,10 +220,10 @@ section{
     gap: 3vh;
 }
 .contenidoDIV h1 {
-    color: rgb(109, 58, 125);
+    color: rgb(34, 0, 255);
 }
 .contenidoDIV h2{
-    color: aquamarine;
+    color: rgb(17, 107, 185);
 }
 .contenidoDIV p{
     display: flex;
@@ -232,7 +231,7 @@ section{
     color: aliceblue;
     text-align: center;
     text-size-adjust: inherit;
-    background: linear-gradient( #0d0d0d, #240054ac);
+    background: linear-gradient( #0d0d0d, #001a99ac);
     padding: 10vh 5vw;
     border-radius: 25%;
 }
@@ -252,19 +251,19 @@ section{
 .contenidoProducto p{
     display: flex;
     flex-direction: column;
-    color: aliceblue;
+    color: rgb(2, 37, 67);
     text-align: center;
     text-size-adjust: inherit;
 }
 .contenidoProducto h2{
-    color: rgb(235, 62, 251);
+    color: rgb(255, 255, 255);
     background-color: #200187;
     padding: 5px;
     margin: 5px;
     border-radius: 15px;
 }
 .contenidoProducto h3{
-    color: rgb(207, 0, 138);
+    color: rgb(255, 255, 255);
     background-color: #200187;
     padding: 3px;
     margin: 3px;
@@ -286,7 +285,7 @@ footer{
     display: flex;
     justify-content: center;
     padding: 10px 30px;
-    background-color:rgb(18, 19, 44);
+    background-color:rgba(0, 0, 0, 0.911);
     color: rgb(232, 231, 231);
     align-items: center;
     margin-top: 50px;
@@ -298,12 +297,10 @@ footer nav{
 .what{
     text-decoration: none;
     color: rgb(26, 182, 33);
-}
-.youtube{
+}.youtube{
     text-decoration: none;
     color: rgba(255, 0, 0, 0.804);
-}
-.discord{
+}.discord{
     text-decoration: none;
     color: rgb(80, 108, 164);
 }
@@ -313,10 +310,10 @@ footer div{
     flex-direction: column;
 }
 footer p{
-    color: rgb(153, 0, 195);
+    color: rgb(0, 111, 195);
 }
 footer h3{
-    color: rgb(180, 88, 207);
+    color: rgb(94, 88, 207);
 }
 
 
