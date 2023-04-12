@@ -71,19 +71,3 @@ fetch("./database/dbproductos.json")
         }
     }   
 })
-
-
-const formulario = document.querySelector("#formulario")
-const usuarios = []
-formulario.addEventListener("submit", (event)=>{
-    event.preventDefault() //previene la recarga de la pagina
-    usuarios.push({
-        nombre: formulario.nombre.value, //capturo el valor de nombre
-        mail: formulario.mail.value,
-        mensaje: formulario.mensaje.value
-    })
-    formulario.reset()
-})
-
-
-
