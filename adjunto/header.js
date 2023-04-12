@@ -15,7 +15,7 @@ headerHTML.innerHTML += `
         <button class="btn-menu" onclick="ocultar()"><i class="bi bi-list "></i></button>
         <nav class="header-nav" id="headerNav">
             
-            <a href="">Ayuda</a>
+            <a href="./contacto.html">Contactanos</a>
             <div class="header-div">
                 <a href="">Inicio</a>
                 <p>|</p>
