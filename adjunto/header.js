@@ -7,7 +7,7 @@ const headerHTML = document.getElementById("header")
 
 headerHTML.innerHTML += `
         
-        <a href="../-TRABAJO-PRACTICO-com-177/" class="inicio"><img class="logo" src="../images/bicep.png" alt="img">Gimnásticos</a>
+        <a href="../-TRABAJO-PRACTICO-com-177/" class="inicio"><img class="logo" src="../-TRABAJO-PRACTICO-com-177/images/bicep.png" alt="img">Gimnásticos</a>
         
 
 
