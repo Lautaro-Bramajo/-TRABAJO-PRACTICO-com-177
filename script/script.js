@@ -42,7 +42,7 @@ fetch("./database/dbproductos.json")
                         <img src="./images/${producto.image}" alt="img">
                         <h2> ${producto.nombre}</h2>
                         <br>
-                        <a class="btn-producto" href="../contenido.html?id=${producto.id}">Detalles</a>
+                        <a class="btn-producto" href="../-TRABAJO-PRACTICO-com-177/contenido.html?id=${producto.id}">Detalles</a>
                     </div>
                 `
 
@@ -52,7 +52,7 @@ fetch("./database/dbproductos.json")
                         <img src="./images/${producto.image}" alt="img">
                         <h2> ${producto.nombre}</h2>
                         <br>
-                        <a class="btn-producto" href="../contenido.html?id=${producto.id}">Detalles</a>
+                        <a class="btn-producto" href="../-TRABAJO-PRACTICO-com-177/contenido.html?id=${producto.id}">Detalles</a>
                     </div>
                 `
 
@@ -62,7 +62,7 @@ fetch("./database/dbproductos.json")
                         <img src="./images/${producto.image}" alt="img">
                         <h2> ${producto.nombre}</h2>
                         <br>
-                        <a class="btn-producto" href="../contenido.html?id=${producto.id}">Detalles</a>
+                        <a class="btn-producto" href="../-TRABAJO-PRACTICO-com-177/contenido.html?id=${producto.id}">Detalles</a>
                     </div>
                 `
 
