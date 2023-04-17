@@ -16,11 +16,6 @@ headerHTML.innerHTML += `
         <nav class="header-nav" id="headerNav">
             
             <a href="./-TRABAJO-PRACTICO-com-177/contacto.html">Contactanos</a>
-            <div class="header-div">
-                <a href="">Inicio</a>
-                <p>|</p>
-                <a href="">Regitrarse</a>
-            </div>
         </nav>    
        
     `
